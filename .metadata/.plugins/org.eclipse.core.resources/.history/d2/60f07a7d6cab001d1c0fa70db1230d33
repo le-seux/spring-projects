@@ -1,0 +1,7 @@
+package net.leseux.sms.service.impl;
+
+import net.leseux.sms.service.StudentService;
+
+public class StudentServiceImpl implements StudentService {
+
+}

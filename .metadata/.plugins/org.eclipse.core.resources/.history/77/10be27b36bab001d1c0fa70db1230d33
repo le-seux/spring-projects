@@ -1,0 +1,5 @@
+package net.leseux.sms.repository;
+
+public interface StudentRepository {
+
+}

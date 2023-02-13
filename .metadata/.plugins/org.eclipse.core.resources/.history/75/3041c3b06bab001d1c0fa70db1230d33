@@ -1,0 +1,5 @@
+package net.leseux.sms.controller;
+
+public class StudentController {
+
+}

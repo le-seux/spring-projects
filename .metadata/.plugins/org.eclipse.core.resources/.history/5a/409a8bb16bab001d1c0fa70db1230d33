@@ -1,0 +1,5 @@
+package net.leseux.sms.service.impl;
+
+public class StudentServiceImpl {
+
+}
